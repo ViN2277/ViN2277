@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViN2277
-- 👀 I’m interested in Programmig 
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
